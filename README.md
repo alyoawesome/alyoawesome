@@ -20,4 +20,4 @@ Welcome to my GitHub! I'm currently a software engineering intern at Angel Host 
 🌐 Feel free to visit my website (https://alexyeung.netlify.app) to learn more!
 
 ## Contact me
-Feel free to contact me via email (alex.ly.yeung@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/alexlyeung). I'm always excited to make new friends and meet new people!
+Feel free to contact me via email (alex.ly.yeung@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/alexlyeung). I'm always excited to make new friends and meet new people!
