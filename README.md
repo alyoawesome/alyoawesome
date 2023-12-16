@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World, I'm Alex 👋
 
 <!--
 **alyoawesome/alyoawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+Welcome to my GitHub! I'm Alex, currently a software engineering intern at Angel Host working on developing software and AI-based solutions to streamline business processes and promote company growth. I'm also studying Computer Science at UBC in Vancouver, BC. Outside of work, I enjoy playing badminton, swimming, hiking, and camping with friends!
+
+Feel free to contact me via email (alex.ly.yeung@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/alexlyeung). I'm always excited to make new friends and meet new people!
+
+🌐 Also feel free to visit my website (https://alexyeung.netlify.app) to learn more!
