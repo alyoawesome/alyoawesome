@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-Welcome to my GitHub! I'm Alex, currently a software engineering intern at Angel Host working on developing software and AI-based solutions to streamline business processes and promote company growth. I'm also studying Computer Science at UBC in Vancouver, BC. Outside of work, I enjoy playing badminton, swimming, hiking, and camping with friends!
+Welcome to my GitHub! I'm currently a software engineering intern at Angel Host working on developing software and AI-based solutions to streamline business processes and promote company growth. I'm also studying Computer Science at UBC in Vancouver, BC. Outside of work, I enjoy playing badminton, swimming, hiking, and camping with friends!
 
 Feel free to contact me via email (alex.ly.yeung@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/alexlyeung). I'm always excited to make new friends and meet new people!
 
